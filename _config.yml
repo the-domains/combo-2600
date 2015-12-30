@@ -1,0 +1,28 @@
+name: Combo 2600
+favicon: null
+layout_spectrum: 0.23908294807188213
+typography_spectrum: 0.6942081819288433
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.15782253723591566
+  lightness: 0.06866718991659582
+  saturation: 0.7513447683304548
+  rhythmicContrast: 0.30563850374892354
+purpose: []
